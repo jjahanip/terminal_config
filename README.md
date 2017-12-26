@@ -21,6 +21,7 @@ git clone https://github.com/jjahanip/terminal_config ~/terminal_config
 cd ~/terminal_config
 cat .bash_profile >> ../.bash_profile
 cat .bashrc >> ../.bashrc
+cp .bash_prompt ../
 cp git-* ../
 ```
 
