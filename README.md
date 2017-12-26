@@ -24,6 +24,6 @@ cat .bashrc >> ../.bashrc
 cp git-* ../
 ```
 
-** Hope you enjoy !**
+**Hope you enjoy !**
 
 
