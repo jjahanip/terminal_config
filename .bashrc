@@ -6,6 +6,6 @@ if [ -f /etc/bashrc ]; then
 fi
 
 #change the command prompt
-source .bash_prompt
+source ~/.bash_prompt
 
 
