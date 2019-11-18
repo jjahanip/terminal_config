@@ -7,5 +7,5 @@ fi
 
 #change the command prompt
 source ~/.bash_prompt
-
+alias gt='git log --graph --abbrev-commit --decorate --oneline'
 
